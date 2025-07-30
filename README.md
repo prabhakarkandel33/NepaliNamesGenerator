@@ -25,7 +25,7 @@ Names were sourced from:
 
 ### 🔧 Final Script
 
-- `project.py`: Cleaned version of the final training and sampling pipeline.
+- `Project/model.py`: Cleaned version of the final training and sampling pipeline.
 
 ---
 
